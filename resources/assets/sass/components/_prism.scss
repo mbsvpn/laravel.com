@@ -74,6 +74,7 @@ pre[class*="language-"] {
 :not(pre) > code[class*="language-"] {
 	background: $color__faint;
 	color: $color__salmon;
+	word-break: break-word;
 	padding: 1px 5px;
 	border-radius: 3px;
 }
