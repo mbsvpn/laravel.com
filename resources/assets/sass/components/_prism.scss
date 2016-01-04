@@ -78,6 +78,10 @@ pre[class*="language-"] {
 	border-radius: 3px;
 }
 
+.token.package {
+	word-break: break-word;
+}
+
 .token.comment,
 .token.prolog,
 .token.doctype,
